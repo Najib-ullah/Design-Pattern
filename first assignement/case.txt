@@ -1,0 +1,4 @@
+Imagine we are developing a video game where players can choose between different character classes, 
+each with unique ability. These abilities affect how the character interacts with the game world and other players. 
+Initially, we implement these abilities directly within each character class, leading to a complex 
+and rigid system that is difficult to maintain and extend.
